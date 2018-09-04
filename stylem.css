@@ -1,4 +1,6 @@
-.simple {
+style.css
+<style type="text/css">
+    .simple {
   width: 500px;
   margin: 20px auto;
   -webkit-box-sizing: border-box;
@@ -15,3 +17,15 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+div{
+  font-family: ARIAL;
+  color: green;
+}
+h1{
+  color: red;
+}
+span{
+  color: blue;
+}
+
+  </style>

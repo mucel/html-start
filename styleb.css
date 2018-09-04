@@ -1,0 +1,13 @@
+style.css
+<style type="text/css">
+		.relative {
+  position: static;
+  width: 600px;
+  height: 400px;
+}
+.log {
+	margin: 20px auto;
+	width: 500px;
+	font-family: 40px;
+}
+	</style>
